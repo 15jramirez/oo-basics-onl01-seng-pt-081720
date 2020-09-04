@@ -10,4 +10,3 @@ class Shoe
      end
    end
 end 
-binding.pry
