@@ -10,4 +10,5 @@ class Shoe
        condition ="new"
      end
    end
+          condition ="new"
 end 
