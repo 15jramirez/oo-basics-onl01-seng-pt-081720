@@ -10,5 +10,5 @@ class Shoe
      end 
     @condition ="new"
    end
-  binding.pry
+
 end 
