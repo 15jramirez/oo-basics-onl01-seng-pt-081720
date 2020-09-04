@@ -8,7 +8,7 @@ class Shoe
      if condition != "new"
        puts "Your shoe is as good as new!"
      end
-     condtion ="new"
+     condition ="new"
    end
    binding.pry
 end 
