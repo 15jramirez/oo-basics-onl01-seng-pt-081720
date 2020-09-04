@@ -5,7 +5,7 @@ class Shoe
     @brand = brand
    end
    def cobble
-     if condition != "new"
+     if @condition != "new"
        puts "Your shoe is as good as new!"
      end 
     condition ="new"
